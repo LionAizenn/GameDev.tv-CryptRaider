@@ -1,6 +1,3 @@
-// PCH for UnrealEdSharedPCH.h
-#include "SharedDefinitions.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
-#include "UnrealEdSharedPCH.h"
-#ifdef __ISPC_ALIGN__
-#error ispc.generated.h files are not allowed in precompiled headers (This is a build time optimization to reduce action dependencies)
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:d469098cf8addcda0f72839865a49a544a726e540b28eb81e82ab111feb2ee75
+size 303

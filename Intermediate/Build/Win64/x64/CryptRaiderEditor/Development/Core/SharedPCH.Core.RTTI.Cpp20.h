@@ -1,6 +1,3 @@
-// PCH for CoreSharedPCH.h
-#include "SharedDefinitions.Core.RTTI.Cpp20.h"
-#include "CoreSharedPCH.h"
-#ifdef __ISPC_ALIGN__
-#error ispc.generated.h files are not allowed in precompiled headers (This is a build time optimization to reduce action dependencies)
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc709b66650cbce2657f4e0e7969d1fb692fdcda7cb6e0402513d4d9049f7a8
+size 271
